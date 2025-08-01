@@ -389,7 +389,10 @@ npx hardhat test
 #deploy2.js
 
 #however in in the final version I do not rely on the deployment of the 'fundraiser' remember the fundraiserfactory will perform that but to suppport
-#running both version of the App.js ( one for a single fundraiser and the final version for the facotry ) 
+#running both version of the App.js ( one for a single fundraiser and the final version for the factory ) 
+
+
+
 
 
 
